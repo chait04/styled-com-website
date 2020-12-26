@@ -1,4 +1,4 @@
-### The error is in the Header component
+#### Animated Simple Website
 
-then
-go to styled.Navbar
+- Framer-motion
+- styled-components
