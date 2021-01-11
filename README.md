@@ -1,8 +1,3 @@
-#### master is not a main branch
+# THIS IS NOT THE MAIN BRANCH
 
-- any contribution will be appriciated
-
-## The error is in the Header component
-
-then
-go to styled.Navbar
+## Go to main branch
